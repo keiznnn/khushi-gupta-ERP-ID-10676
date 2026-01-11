@@ -40,6 +40,4 @@ Program poore grid ko scan karta hai aur jahan-jahan `1` milta hai, wahan ka **r
 5. Jahan `1` milta hai, wahan ka position print hota hai.  
 6. Total danger zones ka count show hota hai.  
 
----
 
-## 🧪 Sample Input
